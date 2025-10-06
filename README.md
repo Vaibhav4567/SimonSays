@@ -25,11 +25,6 @@ An interactive **memory-based game** built with **HTML, CSS, and JavaScript**, w
 4. With each round, the sequence gets longer.  
 5. Make a mistake, and the game ends with your score displayed.  
 
-## 📂 Project Structure  
-├── index.html # Main HTML structure
-├── style.css # Styling and animations
-└── app.js # Game logic (JavaScript)
-
 ## 📌 Future Improvements  
 - 🔊 Add sound effects for button clicks and sequences.  
 - 🏆 High-score tracker using local storage.  
